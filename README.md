@@ -8,7 +8,7 @@ To use this data you must have [Zbrowse] (https://github.com/baxterlabZbrowse/ZB
 
 ### Download and Install
 
-1. Download the zipped file containing this repository from the GitHub [page] (https://github.com/baxterlabZbrowse/Oryza_Sativa).
+1. Download the zipped file containing this repository from the GitHub [page] (https://github.com/baxterlabZbrowse/Panicum_virgatum_v1.1).
 
 2. Unzip the file.
 
